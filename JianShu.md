@@ -17,10 +17,6 @@
 
 ## 《对标“腾讯65W+"年薪Android高级工程师成长曲线》
 
-<div  align = center>
-<img src="https://images.gitee.com/uploads/images/2020/0903/150122_4e9d7264_8014590.png">
-</div>
-
 
 ## 学习视频
 
@@ -142,22 +138,18 @@
 <img src="https://upload-images.jianshu.io/upload_images/16810022-907aae3b0f8dbe4d.png?imageMogr2/auto-orient/strip|imageView2/2/format/webp">
 </div>
 <div  align = center>
-<img src="https://images.gitee.com/uploads/images/2020/0903/153005_d0ccc35c_8014590.png">
 </div>
 
 
 <div  align = center>
-<img src="https://images.gitee.com/uploads/images/2020/0903/153034_2e628117_8014590.png">
 </div>
 
 
 <div  align = center>
-<img src="https://images.gitee.com/uploads/images/2020/0903/153020_c653a849_8014590.png">
 </div>
 
 **资料获取方式：
 [加2000人BAT技术交流群；点击群号：[872206502](https://jq.qq.com/?_wv=1027&k=h536LTvD), 备注：简书,联系群主或者管理员，群主管理员上班时间（下午1点半到晚上10点半），前往免费领取也可以直接加我QQ：1150901274 更方便第一时间领取哦 ]** ,也可以直接加我QQ：1150901274 领取
 
 <div  align = center>
-<img src="QQ二维码.jpg">
 </div>
